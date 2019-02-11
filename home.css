@@ -1,0 +1,64 @@
+#logo {
+  
+float:left;
+margin:1% 0% 0% 13%; 
+
+}
+
+#search {
+float:left;
+
+  }
+
+
+
+.contact{
+
+font-family:"Verdana";
+font-style: italic;
+float:left;
+margin:1% 0% 0% 10%; 
+}
+
+
+
+.search{
+
+margin:1% 0% 0% 3%;
+}
+
+.list  a:hover {
+  color: green;
+  
+  text-decoration: none;
+}
+.list  a {
+  color: gray;
+  padding: 3% 3% 0% 3%
+  text-decoration: none;
+  text-align: center;
+  padding: 16px ;
+  text-decoration: none;
+  font-family:"Arial";
+}
+#log2{
+
+
+	background-color: gray;
+	padding:0px  	px;
+}
+#text{
+	text-align: cente;
+	padding:  ;
+	float: left;
+	width: 49%;
+  height: 50%;
+
+}
+#image{
+	padding: 0% 0% 0% 0%;
+	margin:%%%%;	
+width: 50%;
+  height: 10%;
+	float: right;
+}

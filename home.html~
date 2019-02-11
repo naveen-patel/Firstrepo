@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Vital partners</title>
+<link rel="stylesheet" type="text/css" href="home.css">
+</head>
+<body>
+ <img src="images/foot_logo.png" alt="Girl in a jacket"/> 
+<input type="text" placeholder="Search..">
+
+</body>
+</html> 
